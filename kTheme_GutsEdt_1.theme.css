@@ -27,3 +27,7 @@
     background: url("https://cdn.discordapp.com/attachments/608848206293368832/609462859344248860/1561507406308.jpg") !important;
     background-size: cover !important;
 }
+
+.container-1oAagU > div > div {
+    background-color: transparent;
+}
