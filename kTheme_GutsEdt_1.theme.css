@@ -1,7 +1,8 @@
 @import url(https://eight-p.github.io/BD.8P/Themes/T1/imports/T1.main.css);
 
 :root {
-	--Main_Background: url("https://cdn.discordapp.com/attachments/608848206293368832/609462859344248860/1561507406308.jpg");
+	/*--Main_Background: url("https://cdn.discordapp.com/attachments/608848206293368832/609462859344248860/1561507406308.jpg");*/
+	--Main_Background: url(https://eight-p.github.io/BD.8P/Themes/T1/imports/Server-bg.jpg);
 	--Main_Brightness: 40 ;
 	--Main_Background_blur: 0 ;
 	
