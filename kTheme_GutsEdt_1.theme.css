@@ -2,11 +2,11 @@
 
 :root {
 	--Main_Background: url("https://cdn.discordapp.com/attachments/608848206293368832/609462859344248860/1561507406308.jpg");
-	--Main_Brightness: 10 ;
+	--Main_Brightness: 0 ;
 	--Main_Background_blur: 0 ;
 	
 	--Server_Background: url("https://cdn.discordapp.com/attachments/608848206293368832/609462859344248860/1561507406308.jpg");
-	--Server_Brightness: 10 ;
+	--Server_Brightness: 0 ;
 	--Server_Background_blur: 0 ;
 	
 	--show-nitro-btn: 0 ;
