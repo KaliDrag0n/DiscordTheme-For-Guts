@@ -18,28 +18,25 @@
     display: none;
 }
 
-.uploadModal-2ie9 .app-2CXKsg > .bg-1QIAus {
-    background: url("https://cdn.discordapp.com/attachments/608848206293368832/609462859344248860/1561507406308.jpg") !important;
-    background-size: cover !important;
-}
+/* /\ Header |:| Background \/ */
 
-.app-2CXKsg>.bg-1QIAus {
-    background: url("https://cdn.discordapp.com/attachments/608848206293368832/609462859344248860/1561507406308.jpg") !important;
-    background-size: cover !important;
-}
-
-.backdrop-2ByYRN {
-    background-color: rgba(0, 0, 0, 0.5); !important;
-}
-
-.focusLock-2tveLW > *, .flex-2S1XBF {
-    background-color: rgba(0, 0, 0, 0.5) !important;
-}
-
-.scroller-WSmht3, .members-3WRCEx, .members-3WRCEx > div > div, .container-1oAagU, .container-1oAagU > div > div {
-    background-color: transparent;
+.focusLock-2tveLW > *,
+.flex-2S1XBF {
+    background-color: rgba(0,0,0,0.25) !important;
 }
 
 .imageDetails-1t6Zms {
     background-color: transparent !important;
+}
+
+.uploadModal-2ie9 .app-2CXKsg > .bg-1QIAus {
+    background: rgba(0,0,0,0.25) !important;
+    background-size: cover !important;
+}
+
+.members-3WRCEx,
+.members-3WRCEx > div > div,
+.container-1oAagU,
+.container-1oAagU > div > div {
+    background-color: transparent;
 }
