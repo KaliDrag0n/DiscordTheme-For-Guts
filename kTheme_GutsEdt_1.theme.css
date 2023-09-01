@@ -28,6 +28,10 @@
     background-size: cover !important;
 }
 
+.backdrop-2ByYRN {
+    background-color: rgba(0, 0, 0, 0.5); !important;
+}
+
 .container-1oAagU > div > div {
     background-color: transparent;
 }
