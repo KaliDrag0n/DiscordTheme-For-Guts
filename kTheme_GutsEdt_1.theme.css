@@ -24,5 +24,20 @@
 
 .wordmarkWindows-2dq6rw > * {
 	display: none;
-	background: rgb(0,0,0);
+}
+
+.titleBar-1it3bQ .wordmark-2u86JB::after {
+    font-family: cursive;
+    letter-spacing: 1px;
+    content: "Kali Was Here";
+    position: absolute;
+    background: rgb(0,0,0);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    background-clip: text;
+    font-size: 12.5px;
+    font-weight: bold;
+    top: 5px;
+    left: 5px;
+    width: 250px;
 }
