@@ -1,0 +1,17 @@
+.titleBar-1it3bQ .wordmark-2u86JB::after {
+	content: "Kali Was Here";
+	position: absolute;
+	
+	background-clip: text;
+	letter-spacing: 1px;
+	
+	font-size: 15px;
+    font-weight: bold;
+    top: 5px;
+    left: 5px;
+    width: 250px;
+}
+
+.wordmarkWindows-2dq6rw > * {
+    display: none;
+}
